@@ -4,6 +4,7 @@
 - <a href="#tecnologias">Tecnologias Utilizadas </a>
 - <a href="#rodar">Como rodar o Projeto</a>
 - <a href="#autor">Autor(a) do Projeto</a>
+- <a href="#autor">Layout do Projeto</a>
 <hr>
 
 ## Funcionalidades do Projeto 📋
@@ -31,5 +32,11 @@ $ cd Curso-Mario-Game
 ## Autor(a) do Projeto 🧠
 - Esse projeto foi inspirado com base no tutorial oferecido pelo canal <a href="https://www.youtube.com/@ManualdoDev">Manual do Dev</a>. Projeto feito para estudo da linguagem Javascript.
 
+
+## Layout Do Projeto
+
+<img src="./src/readme/mario-game.png">
+<img src="./src/readme/jump-mario-game.png">
+<img src="./src/readme/loser-mario-game.png">
 
 >&copy; Sara Castro 2023 - Developer Full Stack
