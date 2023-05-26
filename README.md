@@ -17,6 +17,7 @@
 1. <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>
 2. <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>
 3. <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>
+<hr>
 
 ## Como rodar o Projeto?
 ```bash
@@ -28,10 +29,12 @@ $ cd Curso-Mario-Game
 
 # Execute o arquivo usando a extensão Live server no Visual Studio Code ou use uma extensão de sua preferência.
 ```
+<hr>
 
 ## Autor(a) do Projeto 🧠
 - Esse projeto foi inspirado com base no tutorial oferecido pelo canal <a href="https://www.youtube.com/@ManualdoDev">Manual do Dev</a>. Projeto feito para estudo da linguagem Javascript.
 
+<hr>
 
 ## Layout Do Projeto
 
