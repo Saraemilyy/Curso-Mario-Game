@@ -22,7 +22,7 @@
 ## Como rodar o Projeto?
 ```bash
 # Clone este repositório
-$ git clone link-repositorio
+$ git clone https://github.com/Saraemilyy/Curso-Mario-Game
 
 # Acesse a pasta do projeto no seu terminal 
 $ cd Curso-Mario-Game
